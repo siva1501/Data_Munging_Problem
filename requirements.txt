@@ -1,0 +1,4 @@
+# Kata04 Data Munging
+# This project uses the Python Standard Library (no external production dependencies required).
+# Development and testing tools:
+pytest>=7.4.0
